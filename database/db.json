@@ -1,0 +1,129 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12",
+      "categoryId": 1,
+      "price": 15000000,
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "iPhone 12 Mini",
+      "categoryId": 1,
+      "price": 12000000,
+      "isNew": false
+    },
+    {
+      "id": 3,
+      "name": "iPhone 12 Pro",
+      "categoryId": 1,
+      "price": 20000000,
+      "isNew": true
+    },
+    {
+      "id": 4,
+      "name": "iPhone 12 Pro Max",
+      "categoryId": 1,
+      "price": 22000000,
+      "isNew": false
+    },
+    {
+      "id": 5,
+      "name": "iPhone 13",
+      "categoryId": 1,
+      "price": 25000000,
+      "isNew": false
+    },
+    {
+      "id": 6,
+      "name": "iPhone 13 Mini",
+      "categoryId": 1,
+      "price": 20000000,
+      "isNew": false
+    },
+    {
+      "id": 7,
+      "name": "Galaxy S21",
+      "categoryId": 2,
+      "price": 15000000,
+      "isNew": false
+    },
+    {
+      "id": 8,
+      "name": "Galaxy Note 20",
+      "categoryId": 2,
+      "price": 20000000,
+      "isNew": false
+    },
+    {
+      "id": 9,
+      "name": "Xiaomi M11",
+      "categoryId": 3,
+      "price": 15000000,
+      "isNew": false
+    },
+    {
+      "id": 10,
+      "name": "Oppo Reno 6",
+      "categoryId": 4,
+      "price": 18000000,
+      "isNew": false
+    },
+    {
+      "name": "aasdasda",
+      "categoryId": 1,
+      "price": 111111111,
+      "isNew": true,
+      "id": 11
+    },
+    {
+      "name": "123455",
+      "categoryId": 3,
+      "price": 11122223,
+      "isNew": false,
+      "id": 12
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "Samsung"
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi"
+    },
+    {
+      "id": 4,
+      "name": "Oppo"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "productId": 1,
+      "userId": 1,
+      "content": "Đẹp quá",
+      "rate": 5
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "userId": 2,
+      "content": "Rẻ quá",
+      "rate": 4.5
+    },
+    {
+      "id": 3,
+      "productId": 2,
+      "userId": 1,
+      "content": "Tệ quá",
+      "rate": 2
+    }
+  ]
+}
